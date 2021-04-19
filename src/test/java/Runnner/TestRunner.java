@@ -9,7 +9,7 @@ import net.serenitybdd.cucumber.CucumberWithSerenity;
 @CucumberOptions(
 		plugin={"pretty"},
 		glue="StepDefiniations",
-		features="C:/Jitu/Work/SoftwareTesting/Practical/Cucumber_Demo/src/test/resources/Features/Amazon.feature",
+		features="C:/Jitu/Work/SoftwareTesting/Practical/Cucumber_SerenityReport_Demo/src/test/resources/Features/Amazon.feature",
 				
 		
 		monochrome=true
