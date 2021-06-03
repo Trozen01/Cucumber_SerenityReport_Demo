@@ -118,7 +118,7 @@
 				<version>2.22.2</version>
 				<configuration>
 					<includes>
-						<include>**/TestRunner.java</include>
+						<include>**/SerinityTestRunner.java</include>
 					</includes>
 					<parallel>methods</parallel>
 					<threadCount>4</threadCount>
