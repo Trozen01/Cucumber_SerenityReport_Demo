@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?><testsuite errors="0" failures="0" name="io.cucumber.core.plugin.JUnitFormatter" skipped="0" tests="1" time="1.665">
+<testcase classname="Amazon Home Page" name="Amazon Login proper format" time="1.403">
+<system-out><![CDATA[Given User is on Amazon login page..........................................passed
+And Sign in button is avaliable on page.....................................passed
+When User click on sign in button...........................................passed
+Then User can see login page................................................passed
+When User can Enter "s@gmail.com" in username field.........................passed
+And User can Enter "pass" in password field.................................passed
+And User click Sign in button...............................................passed
+Then User is on Home Page...................................................passed
+And Title of home page is "Amazon"..........................................passed
+But Sign is button is not present...........................................passed
+]]></system-out>
+</testcase>
+</testsuite>
